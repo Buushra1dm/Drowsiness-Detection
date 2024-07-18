@@ -65,3 +65,6 @@ Ensure you have the following libraries installed:
 To run the application, use the following command:
 ```bash
 streamlit run app.py
+```
+### Demo
+![demo](https://github.com/user-attachments/assets/fc82326c-c796-4e6d-9022-ae673b2d671b)
