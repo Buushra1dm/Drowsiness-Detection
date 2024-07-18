@@ -67,4 +67,4 @@ To run the application, use the following command:
 streamlit run app.py
 ```
 ### Demo
-![demo](https://github.com/user-attachments/assets/fc82326c-c796-4e6d-9022-ae673b2d671b)
+![demo](https://github.com/user-attachments/assets/d1cad65e-8960-48c2-b49f-1493057bb97f)
